@@ -66,16 +66,16 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Product A</td>
-                        <td>$10.00</td>
+                        <td>Sun Bubur Sereal</td>
+                        <td>Rp8.800</td>
                     </tr>
                     <tr>
-                        <td>Product B</td>
-                        <td>$12.00</td>
+                        <td>Cusson Baby Bottle</td>
+                        <td>Rp30.900</td>
                     </tr>
                     <tr>
-                        <td>Product C</td>
-                        <td>$8.00</td>
+                        <td>Kodomo Shampoo</td>
+                        <td>Rp17.500</td>
                     </tr>
                 </tbody>
             </table>

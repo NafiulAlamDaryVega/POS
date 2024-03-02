@@ -66,16 +66,16 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Product A</td>
-                        <td>$10.00</td>
+                        <td>Tisu Dapur Bamboo</td>
+                        <td>Rp29.500</td>
                     </tr>
                     <tr>
-                        <td>Product B</td>
-                        <td>$12.00</td>
+                        <td>Baygon Obat Nyamuk</td>
+                        <td>Rp19.500</td>
                     </tr>
                     <tr>
-                        <td>Product C</td>
-                        <td>$8.00</td>
+                        <td>Sunlight Pencuci Piring</td>
+                        <td>Rp9.500</td>
                     </tr>
                 </tbody>
             </table>

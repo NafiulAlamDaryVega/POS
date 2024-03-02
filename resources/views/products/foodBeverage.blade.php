@@ -66,16 +66,16 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Product A</td>
-                        <td>$10.00</td>
+                        <td>Sprite</td>
+                        <td>Rp5.000</td>
                     </tr>
                     <tr>
-                        <td>Product B</td>
-                        <td>$12.00</td>
+                        <td>Sari Roti Tawar</td>
+                        <td>Rp17.500</td>
                     </tr>
                     <tr>
-                        <td>Product C</td>
-                        <td>$8.00</td>
+                        <td>Pocky Chocolate</td>
+                        <td>Rp8.700</td>
                     </tr>
                 </tbody>
             </table>

@@ -71,13 +71,13 @@
                         <td>INV001</td>
                         <td>2024-02-28</td>
                         <td>Inensia Putri</td>
-                        <td>$50.00</td>
+                        <td>Rp57.500</td>
                     </tr>
                     <tr>
                         <td>INV002</td>
                         <td>2024-02-28</td>
                         <td>Amanda Agresia</td>
-                        <td>$75.00</td>
+                        <td>Rp16.800</td>
                     </tr>
                 </tbody>
             </table>

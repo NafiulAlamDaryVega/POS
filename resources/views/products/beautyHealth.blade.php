@@ -66,16 +66,16 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Product A</td>
-                        <td>$10.00</td>
+                        <td>Pantene Shampoo</td>
+                        <td>Rp58.900</td>
                     </tr>
                     <tr>
-                        <td>Product B</td>
-                        <td>$12.00</td>
+                        <td>Posh Body Spray Perfumed</td>
+                        <td>Rp24.500</td>
                     </tr>
                     <tr>
-                        <td>Product C</td>
-                        <td>$8.00</td>
+                        <td>Dettol Body Wash</td>
+                        <td>Rp19.300</td>
                     </tr>
                 </tbody>
             </table>
